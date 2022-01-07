@@ -1,0 +1,32 @@
+Variables 
+    una variable es un espacio de memoria al  cual se le asigna un nombre
+    para guardar un valor al cual podemos hacer referencia a lo largo
+    de un programa
+
+Strings
+    son variables de tipo texto que se definen entre comillas dobles por 
+    ejemplo "Henry"
+
+Funciones
+    una funcion es un bloque de codigo al cual se lo encapsula con un nombre
+    se puede hacer referencia a este bloque de codigo en cualquier parte de
+    un programa solo invocandolo con su nombre asignado
+
+Argumentos
+    los argumentos de una funcion son los datos que necesita dicha funcion
+    para poder ejecutar su bloque de codigo van entre los parentesis de la 
+    definicion de la función y separados por comas
+
+Return
+    la palabra reservada return indica el valor que retornara nuestra función
+    (en caso de que la funcion retorne un valor), todo lo que este despues de 
+    esta palabra no se ejecutará
+
+Declaraciones `if`
+    La palabra reservada if es una estructura de control de flojo que sirve para
+    tomar decisiones entre 2 o mas opciones dentro del programa
+
+Valores booleanos (`true`, `false`)
+    true y false por su traduccion al español verdadero o falso son tipos
+    de datos booleanos que solo tienen 2 posibilidades como su nombre 
+    indica
