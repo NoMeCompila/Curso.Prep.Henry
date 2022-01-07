@@ -1,0 +1,12 @@
+for
+    es una estructura de control iterativa que trabaja en un rango determinado
+    el cual es fijado por el usuario o el programador el cual va a repetir 
+    un bloque de código un numero determinado de veces. Tambien sirve para recorrer
+    arreglos y matrices.
+
+`&&`, `||`, `!`
+    son operadores lógicos que sirven para resolver funciones booleanas
+    && representa 'y' es decir que se deben cumplir ambas condicioens a la vez
+    || significa 'o' es decir que se debe cumplir al menos una condicion para 
+    que el resultado sea verdadero y por último ! que es una negación
+    es decir que por ejemplo !true significa false y !false significa true
