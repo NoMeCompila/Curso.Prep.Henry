@@ -1,0 +1,9 @@
+Arrays
+    Los arrays son un conjunto de objetos que pueden o no 
+    ser del mismo tipo y tienen un indice con el cual 
+    se identifica a cada uno de sus elementos para poder 
+    acceder a ellos, modificarlos o eliminarlos etc
+
+    Los arreglos pueden contener a otros arreglos. para recorrerlos
+    se utiliza el bucle for para  agregasr y eliminar elementos 
+    se utiliza push y pop respectivamente
